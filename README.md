@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
-<h3 align="center"><A Passionate Frontend React Developer></h3>
+<h3 align="center">A Passionate Frontend React Developer</h3>
 
 - 🔭 I’m currently working on **MyPortfolio**
 
