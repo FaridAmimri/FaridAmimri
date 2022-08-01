@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
 <h3 align="center">A Passionate Frontend React Developer</h3>
 
-- 🔭 I’m currently working on **MyWeatherApp** wgich is a personnal project
+- 🔭 I’m currently working on **MyWeatherApp** which is a personnal project
 
 - 🌱 I’m currently learning **React**
 
