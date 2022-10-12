@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TypeScript-Todo-List** which is a one of my personal projects
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript and NextJs**
 
 - 💬 Ask me about **React**
 
