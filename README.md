@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on a **E-commerce Website** which is a one of my personal projects
+- 🔭 I’m currently working on a **Full Stack Blog App**
 
-- 🌱 I’m currently learning **NextJs and NodeJs**
+- 🌱 I’m currently learning **NodeJs and MySQL**
 
 - 💬 Ask me about **React**
 
