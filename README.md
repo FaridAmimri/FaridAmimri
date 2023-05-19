@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Full Stack Blog App**
 
-- 🌱 I’m currently learning **NodeJs and MySQL**
+- 🌱 I’m currently learning **NodeJs and Tailwind**
 
 - 💬 Ask me about **React**
 
