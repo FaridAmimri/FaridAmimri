@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Full Stack Car Showcase App**
+- 🔭 I’m currently working on **Full Stack Restaurant App**
 
 - 🌱 I’m currently learning **TypeScript and Tailwind**
 
