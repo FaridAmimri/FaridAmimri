@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Cleaning Website Web App**
+- 🔭 I’m currently working on **A Car Rental Web App**
 
 - 🌱 I’m currently learning **React Native and Tailwind**
 
