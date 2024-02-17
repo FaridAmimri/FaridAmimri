@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **A Car Rental Web App**
+- 🔭 I’m currently working on **A Doctor Booking Web App**
 
-- 🌱 I’m currently learning **React Native and Tailwind**
+- 🌱 I’m currently learning **TypeScript and Tailwind**
 
 - 💬 Ask me about **React**
 
