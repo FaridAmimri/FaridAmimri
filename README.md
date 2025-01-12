@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farid Amimri</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Azure Support Engineer</h3>
 
-- 🔭 I’m currently working on **A Grocery Store Web App**
+- 🌱 I’m currently learning **DevOps**
 
-- 🌱 I’m currently learning **TypeScript and Tailwind**
-
-- 💬 Ask me about **React**
+- 💬 Ask me about **Azure Cloud**
 
 - 📫 How to reach me **farid.amimri@gmail.com**
 
